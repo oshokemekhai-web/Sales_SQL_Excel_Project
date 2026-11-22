@@ -1,0 +1,161 @@
+CustID,Customer_Name,Segment,Region
+C001,Joshua Lewis,SME,Asia-Pacific
+C002,Joseph Davis,SME,Asia-Pacific
+C003,Christopher Hill,SME,Europe
+C004,Charles Thompson,Individual,Europe
+C005,David Hernandez,SME,Asia-Pacific
+C006,Lisa Scott,SME,Asia-Pacific
+C007,Michelle White,SME,Europe
+C008,John Perez,Corporate,Europe
+C009,Mary White,Corporate,North America
+C010,Sandra Nguyen,SME,Asia-Pacific
+C011,Mary Lee,Individual,North America
+C012,Steven Lopez,Corporate,Europe
+C013,Nancy Harris,Corporate,LATAM
+C014,Anthony Ramirez,Individual,Europe
+C015,Jessica Anderson,SME,LATAM
+C016,John Torres,Individual,Asia-Pacific
+C017,Michael Lee,Corporate,Europe
+C018,William Hill,Corporate,LATAM
+C019,Sarah Brown,SME,North America
+C020,Matthew Wilson,Corporate,LATAM
+C021,William Sanchez,SME,Asia-Pacific
+C022,Mary Martin,Corporate,North America
+C023,Margaret Miller,SME,Asia-Pacific
+C024,Linda Wright,Corporate,Europe
+C025,Susan Taylor,Corporate,Asia-Pacific
+C026,Emily Flores,SME,Asia-Pacific
+C027,Patricia Johnson,Corporate,North America
+C028,Jennifer Brown,Individual,LATAM
+C029,Mark Moore,Individual,North America
+C030,Betty King,Individual,Asia-Pacific
+C031,Elizabeth Scott,Corporate,Europe
+C032,Daniel Green,SME,North America
+C033,Karen Adams,Corporate,Europe
+C034,Paul Baker,SME,Asia-Pacific
+C035,kevin Nelson,Individual,LATAM
+C036,Sarah Carter,Corporate,North America
+C037,Jason Mitchell,SME,Europe
+C038,Laura Perez,Individual,Asia-Pacific
+C039,Brian Roberts,Corporate,Europe
+C040,Megan Turner,SME,North America
+C001,Joshua Lewis,SME,Asia-Pacific
+C002,Joseph Davis,SME,Asia-Pacific
+C003,Christopher Hill,SME,Europe
+C004,Charles Thompson,Individual,Europe
+C005,David Hernandez,SME,Asia-Pacific
+C006,Lisa Scott,SME,Asia-Pacific
+C007,Michelle White,SME,Europe
+C008,John Perez,Corporate,Europe
+C009,Mary White,Corporate,North America
+C010,Sandra Nguyen,SME,Asia-Pacific
+C011,Mary Lee,Individual,North America
+C012,Steven Lopez,Corporate,Europe
+C013,Nancy Harris,Corporate,LATAM
+C014,Anthony Ramirez,Individual,Europe
+C015,Jessica Anderson,SME,LATAM
+C016,John Torres,Individual,Asia-Pacific
+C017,Michael Lee,Corporate,Europe
+C018,William Hill,Corporate,LATAM
+C019,Sarah Brown,SME,North America
+C020,Matthew Wilson,Corporate,LATAM
+C021,William Sanchez,SME,Asia-Pacific
+C022,Mary Martin,Corporate,North America
+C023,Margaret Miller,SME,Asia-Pacific
+C024,Linda Wright,Corporate,Europe
+C025,Susan Taylor,Corporate,Asia-Pacific
+C026,Emily Flores,SME,Asia-Pacific
+C027,Patricia Johnson,Corporate,North America
+C028,Jennifer Brown,Individual,LATAM
+C029,Mark Moore,Individual,North America
+C030,Betty King,Individual,Asia-Pacific
+C031,Elizabeth Scott,Corporate,Europe
+C032,Daniel Green,SME,North America
+C033,Karen Adams,Corporate,Europe
+C034,Paul Baker,SME,Asia-Pacific
+C035,kevin Nelson,Individual,LATAM
+C036,Sarah Carter,Corporate,North America
+C037,Jason Mitchell,SME,Europe
+C038,Laura Perez,Individual,Asia-Pacific
+C039,Brian Roberts,Corporate,Europe
+C040,Megan Turner,SME,North America
+C001,Joshua Lewis,SME,Asia-Pacific
+C002,Joseph Davis,SME,Asia-Pacific
+C003,Christopher Hill,SME,Europe
+C004,Charles Thompson,Individual,Europe
+C005,David Hernandez,SME,Asia-Pacific
+C006,Lisa Scott,SME,Asia-Pacific
+C007,Michelle White,SME,Europe
+C008,John Perez,Corporate,Europe
+C009,Mary White,Corporate,North America
+C010,Sandra Nguyen,SME,Asia-Pacific
+C011,Mary Lee,Individual,North America
+C012,Steven Lopez,Corporate,Europe
+C013,Nancy Harris,Corporate,LATAM
+C014,Anthony Ramirez,Individual,Europe
+C015,Jessica Anderson,SME,LATAM
+C016,John Torres,Individual,Asia-Pacific
+C017,Michael Lee,Corporate,Europe
+C018,William Hill,Corporate,LATAM
+C019,Sarah Brown,SME,North America
+C020,Matthew Wilson,Corporate,LATAM
+C021,William Sanchez,SME,Asia-Pacific
+C022,Mary Martin,Corporate,North America
+C023,Margaret Miller,SME,Asia-Pacific
+C024,Linda Wright,Corporate,Europe
+C025,Susan Taylor,Corporate,Asia-Pacific
+C026,Emily Flores,SME,Asia-Pacific
+C027,Patricia Johnson,Corporate,North America
+C028,Jennifer Brown,Individual,LATAM
+C029,Mark Moore,Individual,North America
+C030,Betty King,Individual,Asia-Pacific
+C031,Elizabeth Scott,Corporate,Europe
+C032,Daniel Green,SME,North America
+C033,Karen Adams,Corporate,Europe
+C034,Paul Baker,SME,Asia-Pacific
+C035,kevin Nelson,Individual,LATAM
+C036,Sarah Carter,Corporate,North America
+C037,Jason Mitchell,SME,Europe
+C038,Laura Perez,Individual,Asia-Pacific
+C039,Brian Roberts,Corporate,Europe
+C040,Megan Turner,SME,North America
+C001,Joshua Lewis,SME,Asia-Pacific
+C002,Joseph Davis,SME,Asia-Pacific
+C003,Christopher Hill,SME,Europe
+C004,Charles Thompson,Individual,Europe
+C005,David Hernandez,SME,Asia-Pacific
+C006,Lisa Scott,SME,Asia-Pacific
+C007,Michelle White,SME,Europe
+C008,John Perez,Corporate,Europe
+C009,Mary White,Corporate,North America
+C010,Sandra Nguyen,SME,Asia-Pacific
+C011,Mary Lee,Individual,North America
+C012,Steven Lopez,Corporate,Europe
+C013,Nancy Harris,Corporate,LATAM
+C014,Anthony Ramirez,Individual,Europe
+C015,Jessica Anderson,SME,LATAM
+C016,John Torres,Individual,Asia-Pacific
+C017,Michael Lee,Corporate,Europe
+C018,William Hill,Corporate,LATAM
+C019,Sarah Brown,SME,North America
+C020,Matthew Wilson,Corporate,LATAM
+C021,William Sanchez,SME,Asia-Pacific
+C022,Mary Martin,Corporate,North America
+C023,Margaret Miller,SME,Asia-Pacific
+C024,Linda Wright,Corporate,Europe
+C025,Susan Taylor,Corporate,Asia-Pacific
+C026,Emily Flores,SME,Asia-Pacific
+C027,Patricia Johnson,Corporate,North America
+C028,Jennifer Brown,Individual,LATAM
+C029,Mark Moore,Individual,North America
+C030,Betty King,Individual,Asia-Pacific
+C031,Elizabeth Scott,Corporate,Europe
+C032,Daniel Green,SME,North America
+C033,Karen Adams,Corporate,Europe
+C034,Paul Baker,SME,Asia-Pacific
+C035,kevin Nelson,Individual,LATAM
+C036,Sarah Carter,Corporate,North America
+C037,Jason Mitchell,SME,Europe
+C038,Laura Perez,Individual,Asia-Pacific
+C039,Brian Roberts,Corporate,Europe
+C040,Megan Turner,SME,North America
